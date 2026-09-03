@@ -1,0 +1,19 @@
+# Build artifacts
+bin/
+
+# Saved model files (generated at runtime, not source)
+models
+*.bin
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# Debugging
+core
+vgcore.*
